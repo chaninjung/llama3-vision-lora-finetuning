@@ -314,8 +314,6 @@ lora-construction-terms-output/
 
 - **한글**:  
   본 프로젝트는 별도의 라이선스 없이 “None”으로 설정했습니다.  
-  필요한 경우에는 `LICENSE` 파일을 원하는 오픈소스 라이선스(MIT, Apache 2.0 등)로 교체하세요.
 
 - **English**:  
   This project currently has no license (“None”).  
-  If needed, replace `LICENSE` with your preferred open-source license (MIT, Apache 2.0, etc.).
